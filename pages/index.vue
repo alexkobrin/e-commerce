@@ -5,7 +5,8 @@
                 <div v-if="products" v-for="product in products" :key="product">
                     <ProductComponent :product="product"/>
                 </div>
-            </div>  
+            
+              </div>  
     </div>
   </MainLayout>
 </template>
