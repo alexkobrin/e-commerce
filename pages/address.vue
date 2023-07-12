@@ -81,7 +81,7 @@
 import MainLayout from '~/layouts/MainLayout.vue';
 import { useUserStore } from '~/stores/user';
 const userStore = useUserStore()
-// const user = useSupabaseUser()
+const user = useSupabaseUser()
 
 let contactName = ref(null)
 let address = ref(null)
