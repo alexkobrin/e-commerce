@@ -17,8 +17,11 @@ const userStore = useUserStore()
  
 let products = ref(null)
 
+userStore.isLoading = true
+
 onBeforeMount(async () => {
   products.value = await useFetch('/api/prisma/get-all-products')
+
 })
  
 watchEffect(() => {
