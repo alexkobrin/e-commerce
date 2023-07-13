@@ -1,63 +1,25 @@
-# Nuxt 3 Minimal Starter
+# Emiexpress 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Simple Ecommerce website (clone Aliexpress) with 
 
-## Setup
+<img align="left" style="margin-right:10px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-Make sure to install the dependencies:
+<img align="left" alt="CSS3" style="margin-right:10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-```bash
-# npm
-npm install
+<img align="left" alt="JavaScript" style="margin-right:10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-# pnpm
-pnpm install
+<img align="left" alt="Vue" style="margin-right:10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
-# yarn
-yarn install
-```
+<img align="left" alt="Sass" width="26px" style="margin-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-## Development Server
+<img align="left" alt="Node.js" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-Start the development server on `http://localhost:3000`:
+<img align="left" alt="GitHub" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-```bash
-# npm
-npm run dev
+<img align="left" alt="Git" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-# pnpm
-pnpm run dev
+<img align="left" alt="Visual Studio Code" width="26px" style="margin-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-# yarn
-yarn dev
-```
 
-## Production
 
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+ 
