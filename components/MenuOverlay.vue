@@ -59,10 +59,10 @@ const goTo = (url) => {
   return navigateTo(`/${url}`)
 }
 
-const signOut = () => {
+const signOut = async() => {
   client.auth.signOut()
   userStore.isMenuOverlay = false
-  return navigateTo('/')
+  return await  navigateTo('/')
 }
 
 const signIn = () => {
