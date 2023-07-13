@@ -115,6 +115,8 @@ let clientSecret = null
 let currentAddress = ref(null)
 let isProcessing = ref(false)
 
+const runtimeConfig = useRuntimeConfig()
+
 onBeforeMount(async () => {
   if (userStore.checkout.length < 1) {
     return navigateTo('/shoppingcart')
@@ -151,8 +153,8 @@ watch(
 )
 
 const stripeInit = async () => {
-  const runtimeConfig = useRuntimeConfig()
-  stripe = Stripe(runtimeConfig.stripePk)
+  
+  stripe = Stripe(runtimeConfig.public.stripePk)
 
   let res = await $fetch('/api/stripe/paymentintent', {
     method: 'POST',
